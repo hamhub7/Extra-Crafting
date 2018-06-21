@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extracrafting",
+  "name": "Extra Crafting",
+  "description": "Adding extra crafting device for modpack creators.",
+  "version": "${1.0.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["hamhub7"],
+  "credits": "sumrex for being god",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "extracrafting:crafting_cauldron",
+        "textures":
+        {
+            "particle": "extracrafting:blocks/cauldron"
+        },
+        "transform": "forge:default-block"
+    },
+    "variants":
+    {
+        "normal": [{}],
+        "inventory": [{}]
+    }
+}
